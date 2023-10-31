@@ -1,3 +1,10 @@
+This has also been [posted to Github](https://github.com/kublermdk/abundantmars/blob/main/proposals/ACeS%20-%20Resource%20Engine%20problem%20-%20How%20to%20remove%20the%20Rules%20for%20Rulers.md) and also available as a PDF.
+
+
+> TLDR: This proposal outlines an "**A**bundance **Ce**ntered **S**ociety" (ACeS) for a Mars colony, where resources are managed by a computer based "Resource Engine" rather than traditional politics or market economics. The goal is a post-scarcity society without money where everyone's basic needs are met. However, a challenge is preventing the "Rules for Rulers" effect where leaders become corrupt.
+> 
+> This proposal suggests open source development, transparency, distributed decision-making, and other measures to reduce centralization of power. It poses thought-provoking questions about preventing corruption of the Resource Engine, such as whether leaders are necessary, how to structure voting, and balancing regional differences. In conclusion, it invites discussion on the best structures and safeguards to create a fair, resilient Resource Engine not exploited for gain.
+
 
 I am currently grappling with a challenging problem which I think will affect a lot of humanity in the future and I'm looking for some help.
 
@@ -8,6 +15,7 @@ Especially in regards to the Resource Engine.
 In other words. How do you prevent corruption?
 
 
+
 Some context.
 I explain what ACeS or an Abundance Centered Society is in [episode 1 of the Abundant Mars podcast](https://www.abundantmars.com/podcast/abundant-mars-episode-1-an-abundance-centered-society-jeffs-story/) but I'll explain it shortly for those that aren't sure.
 
@@ -16,12 +24,17 @@ I explain what ACeS or an Abundance Centered Society is in [episode 1 of the Abu
 
 The Rules for Rulers is the term taken from the [CGP Grey video](https://www.youtube.com/watch?v=rStL7niR7gs) which is based on [the Dictators Handbook](https://en.wikipedia.org/wiki/The_Dictator%27s_Handbook).
 
+![](https://www.abundantmars.com/wp-content/uploads/2023/11/2023-10-31st-ACeS-kublermdk_an_autocrat_despot_sitting_on_his_throne_with_2_peopl_45704fa9-4c05-45cc-b6f8-86193e52cc18-Ruler.webp)
+
+
+
+
 The rules are:
 
-Rule 0 : Without power you can affect nothing
-Rule 1 : Keep the key supporters on your side
-Rule 2 : Control the treasure 
-Rule 3 : Minimize key supporters
+- Rule 0 : Without power you can affect nothing
+- Rule 1 : Keep the key supporters on your side
+- Rule 2 : Control the treasure 
+- Rule 3 : Minimize key supporters
 
 There's more nuance and detail in the Dictators Handbook which I found out recently revised their audiobook version to even include Biden getting elected and the reign of Trump, the Arab Spring era and other things.
 
@@ -55,6 +68,7 @@ So it's a post-monetary society.
 
 There's a bunch more to it, but I'm also applying this to a base on Mars. Mars has a lot of extremes. Very cold, barely any atmosphere, not a lot of energy (e.g only 43% as much sunlight), no existing ecosystem. It takes 7 months to travel there, you can only go once ever 2ish years and it costs a lot to get there. Those extremes help highlight constraints in the system you want to run.
 
+![](https://www.abundantmars.com/wp-content/uploads/2023/11/2023-10-31st-ACeS-kublermdk_impressive_futuristic_high_tech_base_covering_most_of_187853b7-03f1-4f3b-a7e9-a915d3ae3b70.webp)
 
 ## **Resource Engine**
 
@@ -139,6 +153,9 @@ But it should be the best for the society as a whole, not the best for a small g
 
 ## **Overview of the Resource Engine**
 
+![](https://www.abundantmars.com/wp-content/uploads/2023/11/2023-10-31st-ACeS-kublermdk_the_Earth_seen_from_space_with_lots_of_interconnected_c2a6aab0-1f40-42bb-a751-39038cf2c710.webp)
+
+
 So there's a few different things the resource engine has to do.
 
 
@@ -184,9 +201,10 @@ A lot of that can be derived from the actions, behaviours and demands of the peo
 
 
 ## **Heart of the Problem**
-Anyway, we can now start getting to the heart of the issue.
+We can now start getting to the heart of the issue.
 
-Obviously with all the capabilities that the Resource Engine has, that comes with great power. As we know from Spiderman, **with great power comes great responsibility.**
+Obviously with all the capabilities that the Resource Engine has, that comes with great power. 
+As we know from Spiderman, **with great power comes great responsibility.**
 
 How do we ensure that what it's doing, it's doing in a fair way that's not exploiting the majority for the gain of a small minority?
 
@@ -308,14 +326,22 @@ Also having some active measures in place so we can prevent corruption, have the
 But, maybe there's major assumptions I have wrong. Or structures I'm missing.
 
 I'm looking for quality discussions and debates.
-**Should we use a Resource Engine?
-Is there better ways? What do they look like?**
+Should we use a Resource Engine?
+Is there better ways? What do they look like?
 
-**What structure should we have? What safeguards? What systems in place to update and correct the safeguards?**
+What structure should we have? What safeguards? What systems in place to update and correct the safeguards?
 
-**Do we have to have leaders? Are the negatives worse than the positives and is that inevitable?**
 
-## Contact details
+**Do we have to have leaders?** Are the negatives of leaders almost always worse than the positives, and is that inevitable?
+
+**What are the better options than having leaders and how do you prevent them from being corrupted?**
+
+
+![](https://www.abundantmars.com/wp-content/uploads/2023/11/2023-10-31st-ACeS-kublermdk_impressive_futuristic_high_tech_and_very_large_sprawl_9e1f3dc8-4a6d-4330-a8bd-e5eed3fb91b3.webp)
+
+If you have any ideas, contact me.
+
+## Contact details:
 
 Name: **Michael Kubler**
 
@@ -323,10 +349,8 @@ Twitter: https://twitter.com/kublermdk
 
 Email: michael@abundantmars.com
 
-Podcast: https://www.abundantmars.com/podcast/abundant-mars-episode-1-an-abundance-centered-society-jeffs-story/
-
 Website: https://www.kublermdk.com/
 
-Keybase (identity): https://keybase.io/kublermdk
+Keybase (identity validation and also encrypted comms): https://keybase.io/kublermdk
 
 
