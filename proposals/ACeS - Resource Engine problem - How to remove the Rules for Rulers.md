@@ -308,11 +308,25 @@ Also having some active measures in place so we can prevent corruption, have the
 But, maybe there's major assumptions I have wrong. Or structures I'm missing.
 
 I'm looking for quality discussions and debates.
-Should we use a Resource Engine?
-Is there better ways? What do they look like?
+**Should we use a Resource Engine?
+Is there better ways? What do they look like?**
 
-What structure should we have? What safeguards? What systems in place to update and correct the safeguards?
+**What structure should we have? What safeguards? What systems in place to update and correct the safeguards?**
 
+**Do we have to have leaders? Are the negatives worse than the positives and is that inevitable?**
 
+## Contact details
+
+Name: **Michael Kubler**
+
+Twitter: https://twitter.com/kublermdk
+
+Email: michael@abundantmars.com
+
+Podcast: https://www.abundantmars.com/podcast/abundant-mars-episode-1-an-abundance-centered-society-jeffs-story/
+
+Website: https://www.kublermdk.com/
+
+Keybase (identity): https://keybase.io/kublermdk
 
 
