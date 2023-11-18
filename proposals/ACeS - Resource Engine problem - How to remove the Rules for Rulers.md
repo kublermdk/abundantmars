@@ -1,10 +1,56 @@
-This has also been [posted to Github](https://github.com/kublermdk/abundantmars/blob/main/proposals/ACeS%20-%20Resource%20Engine%20problem%20-%20How%20to%20remove%20the%20Rules%20for%20Rulers.md) and also available as a PDF.
+This has also been [posted to Github](https://github.com/kublermdk/abundantmars/blob/main/proposals/ACeS%20-%20Resource%20Engine%20problem%20-%20How%20to%20remove%20the%20Rules%20for%20Rulers.md) and also available [as a PDF](https://www.abundantmars.com/wp-content/uploads/2023/11/2023-10-31st-ACeS-Resource-Engine-problem-How-to-remove-the-Rules-for-Rulers-1.pdf).
 
 
 > TLDR: This proposal outlines an "**A**bundance **Ce**ntered **S**ociety" (ACeS) for a Mars colony, where resources are managed by a computer based "Resource Engine" rather than traditional politics or market economics. The goal is a post-scarcity society without money where everyone's basic needs are met. However, a challenge is preventing the "Rules for Rulers" effect where leaders become corrupt.
 > 
 > This proposal suggests open source development, transparency, distributed decision-making, and other measures to reduce centralization of power. It poses thought-provoking questions about preventing corruption of the Resource Engine, such as whether leaders are necessary, how to structure voting, and balancing regional differences. In conclusion, it invites discussion on the best structures and safeguards to create a fair, resilient Resource Engine not exploited for gain.
 
+-----------------------
+
+## Update:
+I've been thinking about this for a few weeks now and there's a few things.
+
+Firstly, I made some assumptions in my original thesis around how humans like to gravitate towards having a leader. I do think this is partly the case (and I'm sure Jordan Peterson and the crabs would agree with me). But maybe all we need is some system that can break a tie breaker set of votes. That could be an algorithm that simply flips coins.
+
+Secondly, I've read almost all of the updated Dictators' Handbook (well, listened to the Audiobook) and the good news they point out is that there's not been a strong democracy that's turned into a dictatorship in the last 150+ years. A democracy is stable and often tends towards becoming more democratic. There has been some notable attacks on democracy with Trump in USA, Duterte in the Philippines. But most seem to have weathered those attacks.
+
+One obvious thing I would say is that **no Sociopaths** / Psychopaths should be allowed to gain anything approaching a leadership position. We've seen what happens when that occurs and it's an attack on the system in order for them to gain more power in a system destroying way.
+
+With such thinking done, I've got a first draft proposal for how to minimise the Rules for Rulers effect on an ACeS Resource Engine.
+
+1. Have a large number of people who can understand and submit code updates. My suggestion is to have a minimum of 10,000 people or a reasonable percentage of the population who are explicitly trained and capable of understanding at least important parts of the system and what updates will do. For most of them, maintaining the system should be their primary focus. They would be an "**ACE**" or Abundance Centered Engineer
+2. Have **a multi-stage testing, acceptance and rollout process for updates**. This likely starts with the pull request (a technical term for merging in new code) triggering a large number of acceptance tests. From unit tests to simulations of past data, expectations of the future and handling of likely disaster scenarios. If it passes those then it's soft-notified to anyone listening and a hard notification sent to a handful of ACE developers, some might be randomly selected and some might be specifically selected because they've dealt with code changes in that area and should understand it (they might also have some feeling of ownership). The ACEs would be given 48hrs by default to review the code changes (but can ask for more if needed). If enough vote for accepting the change and there's none that outright block it (causing a formal review processing) then it can proceed to a 2nd round of change reviews whilst also being deployed in a small geographical area (if appropriate), allowing the equivalent of an A/B testing deploy. Should the data show there's no obvious regressions, then it can be rolled out to greater and greater areas. This process would especially apply to better dealing with edge cases, emergencies or maybe something like tweaks to a transport algorithm. Maybe it's better able to determine if cargo should go the fastest path (e.g if you are an ambulance), shortest path (if heavy freight) or safest path (especially if chemical, radioactive or biologically dangerous).
+3. If it's a large or **breaking change** e.g it triggers **something you can't easily reverse**, like major building code changes and thus ties up a lot of resources which others might have other plans for. Then it should be tagged and flagged as such and go under a lot more scrutiny. It might go for an ACEs vote or taking a **participatory democracy** stance of **those most affected should have the most say**, then it could require a broader vote, including everyone, before a rollout is allowed.
+
+The aim is to work a bit like Wikipedia, as a community of people working on a commons, for the greater good of all.  
+The aim is to allow the smaller, more obvious and easy to accept updates to be accepted more easily and for anything more important or not easily reversible to have more scrutiny and also public acceptance when needed.
+
+There's a bunch of feedback steps whereby people can make suggestions on how to do thing better. You could start with a proposal first, then have code itself and both can change and be refined.
+
+Anyone can listen to suggested merges and look at their process (including who's reviewing them) and can also proactively review them themselves.
+
+**There's no single leader.** It's what some would say is a leaderful system, more than leaderless system. Each ACE should uphold a set of morals and ethics. Ideally we should be able to test when those are being breached in large ways, or are simply shifting with the times (e.g as Mars gets terraformed or if we develop the ability to digitise our consciousness and live inside a computer).
+
+There should be ways that anyone can make suggestions or proposals. Especially a feedback mechanism for pointing out issues and problems.
+
+Pretty much anyone should be able to do a course on being able to understand the Resource Allocation system and to make suggested changes and work towards becoming an ACE.
+
+You might have people who have those who make a code proposal and also those who champion them, sometimes that'll be the same person, sometimes it'll be different. This is probably the area that needs the most scrutiny. You don't want changes which will negatively affect a large number of people but help a very small number, especially those associated with the changes, to be able to simply convince the reviewers it's a good idea.
+
+There should be some way of having a general consensus on things that matter and what a mutually exclusive direction would be and why it shouldn't be pursued.
+
+I like the way Alex explains how there's attractors and shelling gradients In [Episode #84 of the _Boundaryless Conversations Podcast_ titled: **Gardening Platforms and the Future of Open Ecosystems with Alex Komorosk**e](https://pca.st/iv403z5t). The idea is that if something works well, then people will gravitate towards it and to think of it as **Gardening**, not building.
+
+If there does need to be some sort of structure to the system then I'd suggest the **[Constellation Model of Collaboration](https://zeitgeist-info.com/article/2011/04/governance-structures-decentralised-or-constellation-model/)** as [explained by Mark and Tonia Surman](https://zeitgeist-info.com/wp-content/uploads/2021/07/The-Constellation-Model-of-Collaborative-Social-Change_MarkSurmanFinalAug-2.pdf). Having a stewardship group that can set a shared vision. But they can't control the resources.
+
+[![](https://zeitgeist-info.com/wp-content/uploads/2011/04/Constellation_Model_Framework.png)](https://zeitgeist-info.com/article/2011/04/governance-structures-decentralised-or-constellation-model/)
+
+Note that obviously the above proposal is very basic. As we get closer to actually enacting such a system we'll want to come up with multiple other governance proposals, select the best and then detail and build the system, refine, iterate, etc..
+
+
+----------------------
+
+# Original challenge / post:
 
 I am currently grappling with a challenging problem which I think will affect a lot of humanity in the future and I'm looking for some help.
 
