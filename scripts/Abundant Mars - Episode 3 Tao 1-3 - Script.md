@@ -181,7 +181,7 @@ It shouldn't get too big. My suggestion is that you cap the number of tenants at
 
 Many of these concepts are a part of the Zeitgeist Movement and Venus Project, however some are new, or are being discussed in Game B and other adjacent groups.
 
-![](https://lh6.googleusercontent.com/avG_o6ZiAOsnK3bd5OtPUUxQTsiQhKBFVXN2jJfyYClJ7sT2kAwLYaaTNce0LUPnfxY2OE5jt4QVIRgBp46KHg174eH6ahCIomo_zAI3Rd_uKXeQwW2-ZQXxg73xB7TkuQle8q-xITf_EAcerA)
+![The Zeitgeist Movement Ideals - by MDK](/scripts/images/The%20Zeitgeist%20Movement%20Ideals%20-%20by%20MDK.webp)
 
 
 ---------------------------------------------
@@ -481,7 +481,7 @@ All worse on these social problems the higher the social stratification.
 Even if it does help the poor more, reduced social stratification helps everyone, the rich and poor alike.
 
 
-![](https://lh3.googleusercontent.com/Sighwkfod0FNtdR7abcpx5VN2WfZUNKspzQhMqX3DYPAS_nx8zkBINlR2_Nf0z7TKNr2_ogiTIaW2DdaSBXzFC5agprP4N0eT6mEa_X8eGgZVcpffjNCOqP5Kjple_QzF1pZtWRPjxK5D7-wnuc)
+![Fish Ability to Climb Tree](/scripts/images/fish-ability-to-climb-tree.jpg)
 
   
 Also, **we all do better, by us all doing better**.
