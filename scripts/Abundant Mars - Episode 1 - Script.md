@@ -149,12 +149,12 @@ Very few have an unscheduled rapid disassembly. Or as you might say...  very few
 
 There's some robots which setup some Solar panels and fuel processing facilities. After 2 years the rockets return.
   
-![[images/!THE FIRST 10,000 DAYS ON MARS (Timelapse).mkv_snapshot_08.45.081.jpg]]  
+![THE FIRST 10,000 DAYS ON MARS](/scripts/images/!THE%20FIRST%2010%2C000%20DAYS%20ON%20MARS%20(Timelapse).mkv_snapshot_08.45.081.jpg)  
   
 The OK is given and people get sent. The trip takes 7 months but they make it.  
 A colony is setup.  
   
-![[images/!THE FIRST 10,000 DAYS ON MARS (Timelapse).mkv_snapshot_14.04.653.jpg]]  
+![THE FIRST 10,000 DAYS ON MARS](/scripts/images/!THE%20FIRST%2010%2C000%20DAYS%20ON%20MARS%20(Timelapse).mkv_snapshot_14.04.653.jpg)  
   
 We, humanity, start to live on Mars.  
 **The aim is then to setup a self sustaining civilization on Mars. One able to survive without any more space ships coming from Earth**, for whatever reasons that might be.  
