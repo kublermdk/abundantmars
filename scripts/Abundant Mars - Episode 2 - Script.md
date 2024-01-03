@@ -235,7 +235,7 @@ We will likely also create ones that are better optimised for low gravity, artif
 We'll also need to have Nitrogen gas as part of the air mixture but that's mostly inert.  
   
   
-![[How to grow fresh air TED talk - Plants to create Oxygen.jpg]]  
+![How to grow fresh air TED talk - Plants to create Oxygen](/scripts/images/Building%20a%20Marsbase%20is%20a%20Horrible%20Idea%20Let’s%20do%20it!.mkv_snapshot_05.02.112%20Settlements%20by%20the%20Martian%20Poles%20for%20water.jpg)  
   
   
 ## Water  
@@ -251,7 +251,7 @@ Extracting, Melting and processing the water will be energy intensive.
 Water that goes down the drain needs to be filtered and processed.  
 There's no Oceans to pollute. It'll all be inside the base or even inside the Space Ship on the way there.  
   
-![[Mars Polar Ice Cap.jpg]]  
+![Mars Polar Ice Cap](/scripts/images/Mars%20Polar%20Ice%20Cap.jpg)  
   
   
   
@@ -269,7 +269,7 @@ An important nutrient cycle will be the toilet. The toilets will need to be the 
   
 This could be done with [bio-reactors](https://youtu.be/ey06E4iEXzg?t=297), mostly just highly oxygenated bacteria which eat the poop, then you can take the sludge out and use it for nutrients whilst getting much cleaner water.  
   
-![[Building a Marsbase is a Horrible Idea Let’s do it!.mkv_snapshot_05.35.102 - Veggies.jpg]]  
+![Building a Marsbase is a Horrible Idea Let’s do it!.mkv_snapshot_05.35.102 - Veggies](/scripts/images/Building%20a%20Marsbase%20is%20a%20Horrible%20Idea%20Let’s%20do%20it!.mkv_snapshot_05.35.102%20-%20Veggies.jpg)  
   
   
 ## Shelter  
@@ -297,13 +297,13 @@ You might also want some big warehouse sized areas that might be for growing lar
 Eventually you'll even want to create a recreation park.  
   
   
-![[Building a Marsbase is a Horrible Idea Let’s do it!.mkv_snapshot_03.06.434 - Lack of Magnetosphere and atmosphere.jpg]]  
+![Building a Marsbase is a Horrible Idea Let’s do it!.mkv_snapshot_03.06.434 - Lack of Magnetosphere and atmosphere](/scripts/images/Building%20a%20Marsbase%20is%20a%20Horrible%20Idea%20Let’s%20do%20it!.mkv_snapshot_03.06.434%20-%20Lack%20of%20Magnetosphere%20and%20atmosphere.jpg)
   
   
-![[Building a Marsbase is a Horrible Idea Let’s do it!.mkv_snapshot_03.33.333 Frozen CO2.jpg]]  
+![Building a Marsbase is a Horrible Idea Let’s do it!.mkv_snapshot_03.33.333 Frozen CO2](/scripts/images/Building%20a%20Marsbase%20is%20a%20Horrible%20Idea%20Let’s%20do%20it!.mkv_snapshot_03.33.333%20Frozen%20CO2.jpg)
   
   
-![[Building a Marsbase is a Horrible Idea Let’s do it!.mkv_snapshot_03.52.397 Mounds as a base.jpg]]  
+![Building a Marsbase is a Horrible Idea Let’s do it!.mkv_snapshot_03.52.397 Mounds as a base](/scripts/images/Building%20a%20Marsbase%20is%20a%20Horrible%20Idea%20Let’s%20do%20it!.mkv_snapshot_03.52.397%20Mounds%20as%20a%20base.jpg)
   
 ## Emergency Equipment  
 Each area should have the ability to be sealed. Of course if there's a full depressurisation event in a compartment then people should be able to get to safety.  
@@ -375,9 +375,9 @@ Bringing normal uranium nuclear fuel from Earth will be dangerous. Hence **nucle
   
 There's plenty of problems, but they are all surmountable.  
   
-![[20230227214055 Concentrating Solar Thermal.png]]  
+![20230227214055 Concentrating Solar Thermal.png](/scripts/images/20230227214055%20Concentrating%20Solar%20Thermal.webp)
   
-![[!THE FIRST 10,000 DAYS ON MARS (Timelapse).mkv_snapshot_13.36.802 Solar Panels base.jpg]]  
+![!THE FIRST 10,000 DAYS ON MARS (Timelapse).mkv_snapshot_13.36.802 Solar Panels base](/scripts/images/!THE%20FIRST%2010%2C000%20DAYS%20ON%20MARS%20(Timelapse).mkv_snapshot_13.36.802%20Solar%20Panels%20base.jpg)
   
   
 ## Internet  
