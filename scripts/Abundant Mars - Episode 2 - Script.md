@@ -790,13 +790,8 @@ They've also got a great video about Terraforming Mars with Lasers and one about
 
 Scott Manley JUST released an episode about How to make Rocket Fuels.
 
+The intro and outro music was from Pond5
 
-The intro music was **The Seed** by **Aurora** and outro music was **Follow the Sun** by **Xavier Rudd**. (Note to self: For YouTube version only)  
-  
--- The intro and outro music was from Pond5  
--- The intro and outro music was from Epidemic sound  
--- The intro and outro music was from a Stock audio website  
-  
 I've used some AI voice overs via fakeyou.com  
   
 **That's all I've got time for now**.  
