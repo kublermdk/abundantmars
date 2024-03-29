@@ -181,7 +181,7 @@ It shouldn't get too big. My suggestion is that you cap the number of tenants at
 
 Many of these concepts are a part of the Zeitgeist Movement and Venus Project, however some are new, or are being discussed in Game B and other adjacent groups.
 
-![The Zeitgeist Movement Ideals - by MDK](/scripts/images/The%20Zeitgeist%20Movement%20Ideals%20-%20by%20MDK.webp)
+![](https://lh6.googleusercontent.com/avG_o6ZiAOsnK3bd5OtPUUxQTsiQhKBFVXN2jJfyYClJ7sT2kAwLYaaTNce0LUPnfxY2OE5jt4QVIRgBp46KHg174eH6ahCIomo_zAI3Rd_uKXeQwW2-ZQXxg73xB7TkuQle8q-xITf_EAcerA)
 
 
 ---------------------------------------------
@@ -481,7 +481,7 @@ All worse on these social problems the higher the social stratification.
 Even if it does help the poor more, reduced social stratification helps everyone, the rich and poor alike.
 
 
-![Fish Ability to Climb Tree](/scripts/images/fish-ability-to-climb-tree.jpg)
+![](https://lh3.googleusercontent.com/Sighwkfod0FNtdR7abcpx5VN2WfZUNKspzQhMqX3DYPAS_nx8zkBINlR2_Nf0z7TKNr2_ogiTIaW2DdaSBXzFC5agprP4N0eT6mEa_X8eGgZVcpffjNCOqP5Kjple_QzF1pZtWRPjxK5D7-wnuc)
 
   
 Also, **we all do better, by us all doing better**.
@@ -611,75 +611,244 @@ Let me know at www.abundantmars.com or any main social media site for the podcas
 
 ------
 
-
 # John's Story
 
+John is sitting in the cafeteria, looking at his phone, working.
+He works in Food distribution. Making sure the food that's harvested is processed, cooked, stored or composted correctly. 
 
-"**Come on John, you ready? Only 3 more interview**s" says Jannette.
-John looks up from his tablet where he'd been writing down his thoughts on the last interviewee. The rest of the panel have already written their notes about the young couple who want to return to Earth.
+His main well known feature is the always fresh fruit bowl.
+He setup a regular rotation of the apples, bananas, grapes and other fruits so that after being automatically picked by a robot, a select set would be ripened, then transported to the fruit bowls in people's rooms or the cafeteria.
 
-John is the space mission operations specialist on Mars. He coordinates the rocket launches and landings. For a couple of months every 2 years it's incredibly hectic. Unloading cargo and people, quarantine procedures.
-Repairing, refuelling and loading cargo on the rockets for their return trips.
-Due to the radiation exposure and sheer intense nature of it, this is best done with robots. 
-Although there's always some edge cases where he's still got to don a suit and go fix something.
-Which is why most of the rest of the time he's programming robots to deal with more and more things during that 2 week window of arrivals and departures and the increasing number of rockets coming from and returning to Earth.
+If uneaten for a while then before they'd go off they would be replaced with new fruits and the old ones would be used to make things like cakes, shakes or jams.
+If people never ate the fruits then eventually the fruit bowl would stop being filled.
+Thankfully having a great transport system and robot arms inside people's dining room made this possible.
 
-But the rest of the time he's usually able to help with other things.
-He believes in supporting the systems that support him, so sometimes helps with some of the more tricky robot work the people in the aquaponics centre have to deal with.
+Apart from projects like that, it's actually a pretty easy job given how automated it is. John is mostly needed for the weird edge cases.
 
-He also works with the Resource Engine people, mostly because he's in charge of adding the manifest of new resources into the system.
+In an Abundance Centred Society people get food according to their biological requirements.
+For example if you have more muscles or are more active, you need more calories.
+If you are pregnant, you need some special vitamins.
 
-Given his role, he's also on the board which helps choose who can go back to Earth.
+The aquaponics systems need to be sized to make enough food for:
+- The people who are on the base, 
+- The new people who are arriving from Earth
+- The people returning to Earth
+- and have enough slack in case of various failures
+So you want fairly full food stocks.
 
-That's why he's currently dealing with back to back interviews.
 
-The Mars base is pretty well setup, but isn't 100% completely self-sufficient. Thankfully people can now live on Mars for more than a single 2 year cycle. Barring some major issues they can now choose to stay for the rest of their lives.
-This is important as the Mars colony is still too small. It needs lots of people in order to help expand and make life truly multi-planetary.
+On Mars, most people have fortnightly blood tests to ensure they have enough vitamins and minerals and they aren't loosing too much muscle or bone through atrophy because of the lower gravity.
+Their watch acts as an activity monitor.
+Those who are at risk often have daily eye blood testing whereby a specialised camera can view the blood at the back of your eye to get things like an approximate blood count and also look for certain disease markers.
 
-The current missions from Earth are sending both people and cargo.
+Your dietary macros and micros are worked out regularly and most people will order food for the next day so there's plenty of time for the system to prepare it. When you go to order food the digital menu is organised with some competing priorities. There's both what types of food you like, what will be easiest to meet your nutritional requirements as well as what the food availability is, like if it's in surplus, in frozen storage, or if some ingredients just aren't available anymore.
 
-Being reusable rockets, they are sent back.
-Whilst the primary export from Mars is science and knowledge occasionally there's loads of various ores which are sent back.
-Another thing that is returned is humans. People who either need to return to Earth, or have decided they want to.
+This means that the menu you can order from is different based on the current availability, although there's a lot of work done to keep a select set of foods always available.
 
-Sending people back requires specialised food rations and other support that Mars only has a limited capacity for.
-As such they can't always return everyone who wants to go.
+Thankfully there's a fairly regular cadence of food expectations.
+You know how many people there are and how many serves of grains, meat, fruits and veggies are going to be needed in aggregate.
+Things like Apples, Oranges, Bananas, grapes. Plus things like Potatoes, Tomatoes, Lettuce and Cucumber. 
+Recently they added Mangos, Pineapples, and Avocados which after some years have finally grown up enough to be productive and have added a nice sweet or creamy texture, unlocking new recipes.
 
-Thousands usually arrive in a wave of Starships carrying 100 to 150 people each.
-But the allowance for returns this year is only 700 people. Yet 1,200 people have applied. So not everyone who wants to, can return.
-There's lots of ways to select who is allowed.
+The food is grown in large vertical farming systems which are a bunch of hermetically sealed rooms. There's a lot of control over the light levels, water, nutrients and other aspects.
+This allows the horticulturalists to have batches of foods become ripened at different times throughout the year. This reduces the variability over when the fruits are produced. Instead of a lot being available only for a short harvesting period a couple of times a year, the artificial seasons are offset in different batches, so there's at least a set of each main food group ripening each month. It also helps with the bees they use for pollination.
 
-Under Capitalism it would be whoever can buy a ticket first, or pay a higher price.
+There's also grain food. Mostly wheat and soybeans, but also some barley, rye and sugar cane. These are grown in what is basically brightly lit, but barely tall enough to stand in warehouses, with thin soil.
 
-But in a ACeS there's other possibilities:
+For the plants to grow they need the carbon from the atmosphere. They are great CO2 scrubbers that way. Combining it with the hydrogen from water to make starches and glucose.
+So the vast majority of their mass comes from the water and air.
+But they also need other nutrients like Nitrogen, Phosphorus, Potassium and others. 
+This is the equivalent of vitamins for us. 
 
-1. One option is that those most affected by the decision should have the most say in it, so those 1,200 people can have 3 votes and can allocate them to themselves and anyone else on the list. Hopefully enough people vote for others and there's obvious winners.
-2. Another option is for everyone in the Mars Base to have a vote. However this distracts them from their main work and gets even more people thinking about leaving.
-3. The 3rd option is for a panel of people to make a selection.
-4. A random lottery system can simply select.
-5. Or there's the ability to use algorithms and AI systems to automatically select who can go.
+The **air and water** circulation systems **do the heavy lifting**. In fact most plant rooms have **extra high CO2 levels**.
+However there is **a lot of complexity** in actually in providing the **extra nutrients**.
 
-The option that people on Mars selected was for **a hybrid approach**.
+There's a **4 way system for those inputs**. The **waste water system** provides the largest input stream, with the combined **composting**, **chickens** and **Aquaponics** systems helping with the rest.
 
-First, some algorithms select who **NEEDs** to go. This might be 200 people who have **medical or other needs** which can't yet be met on Mars. Those are the easy ones to select. The people who's quality or length of life will suffer the most if they don't return.
-Then there's the people who simply want to return.
-They would like to vacation on Earth, want to go live with their parents back on Earth or maybe they realised what they really want is to be a Deep Sea Diver and there's certainly not enough flowing water on Mars for that.
+The **waste water system** helps close the primary loop. **People eat food**, they can't absorb all of the materials and **pass some of it out**. The **toilets** are hooked up to the **waste water system** which takes the excrement and puts it all into big, highly aerated **vats full of bacteria**.
+The **bacteria eat the poop** and turn it into something more **biologically safe**.
+The **bacterial sludge** is then scraped from the bottom, **killed off**, blended and then fed into the **hydroponics water system**.
 
-John is one of the panel that helps select the final list.
+But there's excess sources of biological nutrients. This includes **food waste** from cooking or people not eating everything, and also **plant matter** left over from the production of things like **coffee**, **rubber**, **cooking oils** and **organic hydrocarbons**.
 
-They interview the people and ask about their background and intentions. They analyse the options and each of the members then puts a weighting and votes or not for each candidate.
+A lot of that can be dealt with using composting. Putting food scraps in and having it turn into soil. You have to get the mixture of nitrogen to carbon somewhat right and it's made much faster by using worms.
+This system is extra sped up by the use of chickens which can also eat a lot of food scraps and turn them into eggs and poop.
 
-Usually what happens is that the status hierarchy of people who've contributed to the systems in meaningful ways is recognised.
-Some people who don't fit well with the culture or are just a pain in the ass are often voted out.
+But there's also a need for Fish in the Aquaponics system which are feed things like the wheat and soybean chaff, plus some of the processed food scraps, and compost materials, to help produce ammonia for the plants.
 
-But the most important part isn't the voting and selection part, it's the interview process.
+Ammonia or especially the nitrate it's turned into by some more bacterial processes in their water is a great source of Nitrogen for the plants.
 
-For the people who stay, they feel listened to and heard. Something that a random lottery system wouldn't achieve.
+All of these systems together means there's very little that escapes the biological nutrient cycle. Once matter enters the cycle it just needs energy to keep it flowing through and thus be keeping people well fed.
 
-Because of the process, those who have to stay often feel a greater sense of connection to the community and end up finding out they are perfectly happy on Mars.
-If not, they'll probably apply for the next round and if needed higher priority can be applied to sending people back.
+The system has to keep increasing in size and has large demand spikes when people arrive from Earth. But there's usually a 5 to 9 month lead time on new arrivals and you know exactly how many new people are coming.
 
-John, he's making sure to note down he wants to follow up with that family they were just talking to with some useful resources and get them in touch with some other parents on the base.
+Still, sometimes there's some unexpected spikes in supply or demand.
+
+Unfortunately, now is one of those unexpected times.
+
+### John learns about what happened
+
+John's phone rings. He picks it up "**Hi Caroline, what's up?**" he asked with a smile on his face.
+
+Caroline started bawling her eyes out and sobbing "*They, they're gone*"
+
+John: "**OK, Caroline, take a deep breathe and tell me again. What happened, who is gone?**"
+
+Caroline: "*I'm sorry John, but they are dead. So many of them are dead!*" She cried
+
+John is getting rather worried. Who died. OMG, did a meteor hit a part of the base and he wasn't notified? His heart raced and he started to sweat as he had a spike of adrenaline.
+
+Caroline cries for a few more moments before blowing her nose. John has to move the phone away from his ear. When he moves it back he can hear her talking, like she'd regained her composure.
+
+Caroline: "_The filters were getting clogged all the time, the water was really murky you could barely see anything. So we purged the T2 Aquaponics system and sent the robots in to clean it out. All worked as anticipated. As you know it's a big system, it's our biggest Aquaponics setup._"
+
+As she stopped to breathe John was screaming inside his head "**Who died? How many people?**" How could the Aquaponics system kill people? But he patiently waited.
+
+Caroline continued "*We needed fresh water, not the muck that was there before. So we tapped most of what was in the large emergency storage tank, knowing that what we'd just sent to the waste water treatment plant would end up there soon enough. But there's an issue. In order to work even without power the water is stored in a tower, above ground. It's currently rather cold outside and well, the insulation only works so well and the heating is kept minimal, it's usually only at 4°C just enough to keep from freezing, so yeah, they died, nearly all of them.*"
+
+John had already started running for the aquaponics section of the base. He kept waiting for her to explain how something broke and the place flooded or some electrical system fried people. He kept expecting to see some base wide alert show up. His friends faces were flashing in front of his eyes, alternating between smiling and dying in pain.
+
+John couldn't contain it "**WHAT? I don't understand.**
+**What happened?**
+**WHO DIED?**
+**Caroline. Please, tell me, do you at least know many people died?**"
+
+Caroline sobered up, realising what she'd done and replied "*What, ohh no one died, it was the fish. All our fish died.*"
+She started to cry again as she explained "*The water was too cold for them. They died of thermal shock. When I'd looked at the input water temperature it said it was fine, but of course that's right by the door, not deep in the water tower. Why didn't I think about it? Why didn't I check the water temperature again before re-introducing them? It's my fault*" then Caroline blew her nose again.
+
+John stopped running and his brain switched gears. Ohh, it wasn't a person. His friends were all OK.
+The fish. The T2 system was their biggest. Many times larger than all of the others combined.
+John asked "**Caroline, how many fish are we talking about?**"
+She replied "*Umm let me think. We had to put them into a bunch of holding tanks before we refilled the system. They were pretty crammed in there but if I remove some weight for the water.... I think about 754 tonnes worth*"
+John gasp "**Ohh.... Ohhhhh. That's a lot**."
+Caroline replied "*Yeah, I'm sorry and now we don't know where to put them, The system says long term food storage can't take it all, can't even get it in there fast enough. Can you help with that?*"
+Before John could form a response he could here someone talking to her in the background "*Hey, I've got to go*" and she hung up.
+
+John immediately switched to the food distribution section of the Resource Engine app. There was normally only fish being added when they died off from old age. Maybe a few hundred kilograms a day.
+He could see that they would easily overwhelm the 5 tonnes available in the base's active reserves, waiting to be immediately cooked and eaten. He put the highest priority on eating fish. For the next few weeks fish was going to be the primary food item on the menu.
+
+Over the next few hours he managed to survey the situation. There was a large mass of dead fish in the Aquaponics system. Mostly a large set of tanks which fed water into the primary grain and hydroponic fruits and veggies.
+There was some automated systems for detecting and gathering dead fish in what are essentially giant aquariums. Usually the fish they floated or sometimes sunk but the systems simply weren't designed for this level of load. They could carry out no more than 1 tonne of fish an hour. It would take a month just to remove the dead fish from the tanks using the existing system.
+
+Thankfully they could fairly easily fill up the holding tanks again, but now with dead fish.
+
+It was pretty obvious what the best course of action was after that: 
+1. Try to eat as many fish as possible
+2. Store as many fish as possible
+3. Process the rest of the fish into fish food or as composting feed. 
+
+Freezing the fish was easy in theory. You just put them into a storage warehouse that's not very well thermally isolated. It's cold outside at the moment.
+
+But the Martian dust is toxic, and clingy so you can't just leave them outside like in Antarctica. It also sometimes gets above 20°C outside, so you need thermally regulated, partly pressurised frozen storage space.
+We also want to keep as much heat as possible, so you ideally want to use a heat pump to freeze the fish first so we can use the heat for the new water.
+
+However the frozen food stores are usually kept as full as possible and there wasn't easily a 700 m3 (meter cubed) or nearly 9m x 9m x 9m area available. That's the size of a 2 story building on Earth.
+
+
+Basically they couldn't store it, nor freeze it fast enough.
+But they could probably store 50% of it.
+
+To even get them there it would require a massive effort to drain most of the water again, have a continuous stream of robots filling up buckets and taking them to be frozen.
+
+John's mind was racing. He had already messaged Andy about programming the robots and Caroline about the holding tanks. He was now bringing more people into a group chat, seeing if anyone else on the base had some good ways of storing them.
+He talked to Caroline and suggested that they keep the water from getting warm, even if that means they have to keep a stream of freezing water over the fish. The water was thankfully close to freezing already. That would reduce the chances of them going off.
+
+The Mars base currently had provisions for up to 5 tonnes of fish to be in short term storage. This was where the fish which had just died would be kept in a standing tank before being selected, cooked and eaten.
+
+Eating lots of fish was fine for most people as there wasn't many forms of meat. It was mostly fish or the occasional chicken. It's normally not a problem because there was plenty of protein in the veggies.
+Some people were vegetarian and vegan. They wouldn't even see the fish as a food option. 
+But for everyone else they already had to scroll quite far down in the menu app before seeing anything else but something with a serving of Salmon, Tuna, Sardines, Tilapia or some other fish food menu item.
+
+The group of them worked together and  released a notice to the rest of the base letting everyone know what had happened.
+
+Someone pointed out that if it was an excess of fruits then they could turn it into Jam. 
+
+So maybe they could setup some of the preservation and tinning equipment for having dried or tinned fish. 
+It looks like they'd be able to have tinned tuna and sardines that could last years, although it would take weeks to spin things up properly, but they could start drying out lots of the fish now if they used some of the excess heat from the Iron Forge and they'd need some metal anyway to help tin what they didn't want to dry. Overall they should be able to preserve 250 tonnes worth.
+
+Some would spoil, but that could be made into a paste and given to the new fish which would be introduced into the system from the other Aquaponics systems. That is, after the T2 system was properly refilled with nicely heated water.
+
+Overall not too bad. John and the others managed to make the most of a bad situation. There had been an increase in fish bones stuck in people's teeth, but that was about it.
+
+There's also now a thermometer placed closer to the centre of water tanks, rooms and other places and an estimated average temperature is shown. This is especially important where there's a large temperature gradient. Not just in tanks which are outside of the normal heated zone of the base, but also rooms which have been deactivated and aren't heated nor pressurised in order to save energy.
+
+There's also alarms setup for the main Aquarium water if it gets too cold and it would prevent doing that again.
+
+---------------
+
+## Johns Capitalism Story
+
+Under Capitalism John is working for the Rossum Food corporation and is their main point man. He is the manager in charge.
+
+He gets a message from Caroline "**Urgent: The T2 fish are dead**"
+
+John heads over and takes some photos and gets the details from Caroline.
+He has already drafted a message for the corporation back on Earth.
+
+It'll be 18 minutes before they even get the message.
+Apart from checking that the dead fish extractor was working, they waited idly for what ended up being 2 hours.
+
+
+### The Email
+The email response was professional but not pleasant.
+
+```
+Dear John Denver Jr,
+
+Regarding your email titled "Dead fish in T2", we would like to remind you that the Rossum Food corporation is trying to poise itself as catering to the upper middle class and has recently had to compete with companies offering force fed ducks livers or caviar. These competitors have recently reduced their price offerings and started aggressive marketing, as you yourself have previously highlighted to us.
+Thankfully they are still many times the price of our fish offering, however Rossum does not want to get pushed into a lower tier market. We want to maintain our $150/Kg price point.
+
+We have discussed the options and investigated the price of long term storage, composting and equipment hire. Given the current rate of food consumption we have calculated an optimal outcome which will prevent us from flooding the market with cheap fish whilst not costing us a lot to dispose of the rest.
+
+As such you are ordered to do the following:
+
+1. Fill up the Martian base's short term food reserves. We understand this should be capable of at least 5 Tonnes and is a part of our free allocation. However don't reduce the price.
+
+2. Put 52 tonnes of fish into long term storage. We've secured a contract with the Mars storage facility and they should be reaching out to you shortly to organise logistics.
+
+3. Fire Caroline immediately. Her incompetence has cost the company over $100 Million in lost potential revenue. This is unacceptable. As per Martian rules, we've released enough funds from escrow so she can buy a ticket back to Earth. But she won't receive a pay check for the current month. We are currently investigating if we can sue her in court.
+
+4. We have credited your personal account with enough to cover hiring a martian digger and a large transport truck for 1 hour. You are to contact the number provided and ask for Joe. You are then to take the digger to a spot over the horizon, away from the view of the base and dig a large enough hole to put the remaining fish into. Then cover them up. We estimate this will take more than 1 hour and you will have to use your personal account to cover the remaining costs. You are the person in charge and this happened under your watch.
+
+Signed, The Rossum Food Corporation
+```
+
+
+
+John read the email and sighed.
+He showed Caroline the email and she started to cry.
+"*But, how will I survive?*" She whimpers.
+"*I've only got enough savings for a month unpaid, not over a year and they won't even pay me for what I've already worked?*"
+
+After a few moments she starts to get angry and says "*It's expensive to live here, 10x worse than living in New York. So either I die of starvation, homeless on Mars, in the next few months, or I can't afford the flight back and die of starvation, homeless on Mars*."
+
+John said "**Maybe you can get another job here?**"
+
+Caroline chuckled in amused anger.
+"*Have you ever heard of someone getting a job on Mars? You get a Job, train for a year or more and THEN go to Mars. They also have a backup for your role in case you die during your tour. Nope, I don't think I can survive. All because of some stupid gauge didn't tell me it was freezing cold water*". 
+
+She stormed off.
+
+John called the number and got suited up, ready for a walk outside.
+It was many hours later when he returned. Despite using a mining hauler. He had to do 7 trips in the truck.
+There was no way the mound would be invisible, but he was guessing no one would question it, at least for a while.
+
+That night John rocked up at Caroline's place,  rolling a large barrel there.
+She looked confused when she opened the door.
+"**Look Caroline, I don't think it's right what they did to you, nor what they just made me do. I can't go against their wishes, so don't tell them I helped you. But here's some fish. You should be able to last another couple of months just off these and some cheap veggies. You are a smart capable woman, I'm sure you'll be able to land another job in the mean time**" said John.
+
+
+"*Thank you John, thank you*" she replied and Caroline's stress seemed to melt away from her. She was so relieved.
+
+But the story wasn't over.
+They had just taken out a large amount of biological nutrients from the system and it would cause intermittent cascading failures.
+Over the coming months it would be hard for the vertical farms to get enough nutrients. The fish stocks never recuperated and the prices of food increased. Those on minimum wage were put under even more financial and physical stress as they could barely sustain themselves.
+
+The Rossum Food Corp were happy because being a piece of critical infrastructure they'd managed to get financial compensation from the government for much of their potential losses. 
+They'd also chased away their competitors who had to raise their prices as their stocks also diminished.
+
+
+## Johns Story End
 
 ------------------------
 
